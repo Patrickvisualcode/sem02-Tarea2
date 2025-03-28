@@ -4,10 +4,10 @@
 Me apasiona el **Frontend** porque me encanta diseñar y dar vida a las interfaces. Disfruto hacer que las páginas web sean atractivas, interactivas y funcionales.
 
 🔹 **¿Cómo se relacionan mis habilidades con esa área?**  
-Soy bueno en el diseño, la creatividad y el trabajo con **HTML, CSS y JavaScript**. Me gusta organizar elementos visuales y mejorar la experiencia del usuario.
+Soy bueno en el diseño, la creatividad y el trabajo con **HTML, CSS y JavaScript**. Me gusta organizar elementos visuales y mejorar la experiencia del usuario mediante una adecuada investigacion de campo y todo lo que sea necsario para hacer de esa experiencia algo muy satisfactoria.
 
 🔹 **¿Qué me gustaría explorar o probar en los próximos meses?**  
-Quiero aprender más sobre **Astro**, **animaciones CSS** y mejorar mis habilidades en **UX/UI**. También me gustaría practicar con proyectos reales.
+Quiero aprender más sobre **Astro**, **animaciones CSS** y mejorar mis habilidades en **UX/UI**. También me gustaría practicar con proyectos reales y abundar en la inteligencia artificial aplicandola en la creacion de proyectos asociados a un desarrollo teniendo como base la IA.
 
 🔹 **¿Qué aprendí de mí mismo/a con el test y el mapa vocacional?**  
 Descubrí que mi perfil se alinea con el diseño y desarrollo visual. Me motiva crear cosas que sean útiles y agradables para los usuarios. Me di cuenta de que disfruto resolver problemas visuales y mejorar interfaces.
